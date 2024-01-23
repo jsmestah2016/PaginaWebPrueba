@@ -20,6 +20,6 @@
     </style>
 </head>
 <body>
-    <h1>Esta es una página de prueba</h1>
+    <h1>Esta es una página de prueba XD </h1>
 </body>
 </html>
